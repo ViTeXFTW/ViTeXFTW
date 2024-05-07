@@ -1,4 +1,4 @@
-### Hi there 👋 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+### Hi there 👋
 I am Mads. I am an aspiring software engineer currently getting my BEng at the Danish Technical University. I have experience working with IoT system from my education and internship. 
 
 I enjoy working on personal projects, developing my programming skills, and expanding my knowledge. My latest project is a syntax highlighter for Vscode for one of my childhood games, which I currently maintain while experiencing with a language server for the same game. 
