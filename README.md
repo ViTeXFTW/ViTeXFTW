@@ -8,11 +8,6 @@ I am also experimenting with automatic testing using GitHub and test frameworks 
 ## ⚙️ Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🪪 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%23004788&color=blue)](https://www.linkedin.com/in/mads-dichmann-jans/)
-[![GitHub](https://img.shields.io/badge/GitHub-gh?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=grey)](https://github.com/vitexftw) 
-[![EMail](https://img.shields.io/badge/EMail-mail?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=%23004788&color=white)](mailto:MadsDJans@gmail.com)
-
 [![](https://visitcount.itsvg.in/api?id=ViTeXFTW&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## 📈 Statistics
