@@ -1,21 +1,15 @@
 # Hallo 👋
-I am Mads, a backend / IoT software engineer.  
-Professionally i have worked with embedded C/C++ developing particle sensor systems, tailored to customer needs.
+I am Mads, a hooby software engineer with a computer science degree to sit and collect dust while doing logistic consultency 👍.
   
-Personally i enjoy developing tools, that improve productivity and help speed up development. My passion project is a [language server](https://github.com/ViTeXFTW/ZeroSyntax-Server) for a custom scripting language for VScode, that i use to expand my abilities.
-I am also experimenting with automatic testing using GitHub and test frameworks to improve code cooperability.
+Personally i enjoy developing tools, that improve productivity and help speed up development. I am also experimenting with automatic testing using GitHub and test frameworks to improve code cooperability.
 
 ## ⚙️ Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-[![](https://visitcount.itsvg.in/api?id=ViTeXFTW&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-## 📈 Statistics
-<div>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitexftw&theme=tokyonight" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitexftw&theme=tokyonight" height="180em" />
-</div>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitexftw&theme=tokyonight" height="180em" />
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&e&logo=rust&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📕 Education
 I have a Bachelors degree in Computer Science from Danish Technical University (DTU).
