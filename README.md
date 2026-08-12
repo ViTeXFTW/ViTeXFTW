@@ -1,7 +1,7 @@
 # Hallo 👋
-I am Mads, a hooby software engineer with a computer science degree, currently doing logistic consultency 👍.
-  
-Personally i enjoy developing tools, that improve productivity and help speed up development. I am also experimenting with automatic testing using GitHub and test frameworks to improve code cooperability.
+I'm a Bachelor of Engineering in Computer Engineering from DTU, working professionally with C++, Python, modelling, and simulation.
+
+My interests include embedded systems, software architecture, developer tooling, automated testing, and hardware/software integration.
 
 ## ⚙️ Stack
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&e&logo=rust&logoColor=white)
